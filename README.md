@@ -62,6 +62,7 @@ GET /roommates: Devuelve todos los roommates almacenados en el servidor
     "fs": "^0.0.1-security",
     "uuid": "^10.0.0"
   }
+  
 ```
 
 ## instalacion
@@ -77,5 +78,3 @@ GET /roommates: Devuelve todos los roommates almacenados en el servidor
 
 ## Mantenedor de gastos.
 ![](https://raw.githubusercontent.com/VictorTapiaEgana/rommates/master/github/agregar.png)
-
-
