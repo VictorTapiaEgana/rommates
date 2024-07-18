@@ -7,6 +7,11 @@
 
 ![](https://img.shields.io/badge/Node.js-5FA04E.svg?style=for-the-badge&logo=nodedotjs&logoColor=white) ![](https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white) ![](https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white) ![](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black) ![](https://img.shields.io/badge/JSON-000000.svg?style=for-the-badge&logo=JSON&logoColor=white)
 
+
+## Video
+[![Alt text](https://img.youtube.com/vi/uJ3oxViqdrE/0.jpg)](https://www.youtube.com/watch?v=uJ3oxViqdrE)
+
+
 # Endpoints:
 ```
 GET /gastos: Devuelve todos los gastos almacenados en el archivo
